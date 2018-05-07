@@ -33,7 +33,7 @@ Player](https://www.wolfram.com/cdf-player/).
 - [reverse-engineering/step4-ssa.c](reverse-engineering/step4-ssa.c): code after
   single static assignment transformation.
 - [reverse-engineering/step5-circuit-minimization.c](reverse-engineering/step5-circuit-minimization.c):
-  code after single static minimization.
+  code after circuit minimization.
 
 ### Data Dependency Analysis
 
