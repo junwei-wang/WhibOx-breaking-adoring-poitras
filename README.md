@@ -48,7 +48,25 @@ Player](https://www.wolfram.com/cdf-player/).
 s-box.
 
 ## Publication
+
 ```
+@article{GPRW20,
+  author    = {Louis Goubin and
+               Pascal Paillier and
+               Matthieu Rivain and
+               Junwei Wang},
+  title     = {How to reveal the secrets of an obscure white-box implementation},
+  journal   = {J. Cryptographic Engineering},
+  volume    = {10},
+  number    = {1},
+  pages     = {49--66},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/s13389-019-00207-5},
+  doi       = {10.1007/s13389-019-00207-5},
+  timestamp = {Thu, 09 Apr 2020 21:56:49 +0200},
+  biburl    = {https://dblp.org/rec/journals/jce/GoubinPRW20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 @misc{cryptoeprint:2018:098,
     author = {Louis Goubin and Pascal Paillier and Matthieu Rivain and Junwei Wang},
     title = {How to Reveal the Secrets of an Obscure White-Box Implementation},
@@ -57,6 +75,7 @@ s-box.
     note = {\url{https://eprint.iacr.org/2018/098}},
 }
 ```
+
 
 ## License
 
